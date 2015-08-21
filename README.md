@@ -8,7 +8,7 @@ Fill Readme
 ## Installation
 
 ``` bash
-$ npm install
+$ npm install compute-fill-readme
 ```
 
 
@@ -88,7 +88,7 @@ Options:
 ``` bash
 $ cd ~/my/project/directory
 $ fillReadme
-# => Generates code comments for the README.md file in the current working directory and overwrites it
+# => Generates code comments for the README.md file in the current working directory
 ```
 
 To specify a location other than the current working directory, provide a `directory`.

@@ -38,6 +38,7 @@
     "validate.io-array": "^1.0.6",
     "validate.io-function": "^1.0.2",
     "validate.io-matrix-like": "^1.0.2",
+    "validate.io-object-array": "^1.0.0",
     "validate.io-primitive": "^1.0.0",
     "validate.io-string-primitive": "^1.0.0",
     "validate.io-typed-array-like": "^1.0.0"
