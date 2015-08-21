@@ -55,6 +55,10 @@ data = new Int8Array( data );
 out = sqrt( data );
 // returns;
 
+data = new Float64Array( [ 2, 5, 8, 11, 16 ] );
+out = sqrt( data );
+// returns;
+
 data = new Int16Array( 6 );
 for ( i = 0; i < 6; i++ ) {
 	data[ i ] = i*i;

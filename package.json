@@ -25,7 +25,12 @@
     "type": "git",
     "url": "git://github.com/compute-io/fill-readme.git"
   },
-  "keywords": [],
+  "keywords": [
+    "README",
+    "code comments",
+    "automation",
+    "generate"
+  ],
   "bugs": {
     "url": "https://github.com/compute-io/fill-readme/issues"
   },
@@ -38,6 +43,7 @@
     "validate.io-array": "^1.0.6",
     "validate.io-function": "^1.0.2",
     "validate.io-matrix-like": "^1.0.2",
+    "validate.io-number-primitive-array": "git+https://github.com/validate-io/number-primitive-array.git",
     "validate.io-object-array": "^1.0.0",
     "validate.io-primitive": "^1.0.0",
     "validate.io-string-primitive": "^1.0.0",
