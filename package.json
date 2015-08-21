@@ -45,10 +45,20 @@
   "devDependencies": {
     "chai": "3.x.x",
     "codecov.io": "^0.1.5",
+    "compute-array-constructors": "^1.0.0",
+    "dstructs-matrix": "^2.0.0",
+    "fs-extra": "^0.23.1",
     "istanbul": "^0.3.0",
     "jshint": "2.x.x",
     "jshint-stylish": "2.x.x",
-    "mocha": "2.x.x"
+    "mocha": "2.x.x",
+    "utils-deep-get": "^1.0.0",
+    "utils-deep-set": "^1.0.1",
+    "validate.io-array-like": "^1.0.1",
+    "validate.io-boolean-primitive": "^1.0.0",
+    "validate.io-nan": "^1.0.3",
+    "validate.io-number-primitive": "^1.0.0",
+    "validate.io-object": "^1.0.4"
   },
   "license": "MIT"
 }
