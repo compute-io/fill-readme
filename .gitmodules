@@ -1,0 +1,3 @@
+[submodule "examples/sqrt"]
+	path = examples/sqrt
+	url = https://github.com/compute-io/sqrt.git
