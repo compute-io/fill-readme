@@ -43,7 +43,9 @@
     "validate.io-array": "^1.0.6",
     "validate.io-function": "^1.0.2",
     "validate.io-matrix-like": "^1.0.2",
-    "validate.io-number-primitive-array": "git+https://github.com/validate-io/number-primitive-array.git",
+    "validate.io-number-primitive": "^1.0.0",
+    "validate.io-number-primitive-array": "^1.0.0",
+    "validate.io-object": "^1.0.4",
     "validate.io-object-array": "^1.0.0",
     "validate.io-primitive": "^1.0.0",
     "validate.io-string-primitive": "^1.0.0",
@@ -63,9 +65,7 @@
     "utils-deep-set": "^1.0.1",
     "validate.io-array-like": "^1.0.1",
     "validate.io-boolean-primitive": "^1.0.0",
-    "validate.io-nan": "^1.0.3",
-    "validate.io-number-primitive": "^1.0.0",
-    "validate.io-object": "^1.0.4"
+    "validate.io-nan": "^1.0.3"
   },
   "license": "MIT"
 }

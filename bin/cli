@@ -57,6 +57,13 @@ if ( args.help ) {
     return;
 }
 
+// FILL README //
+
+function onCompletion( error ) {
+	if ( error ) {
+		throw error;
+	}
+}
 
 // VERSION //
 
@@ -71,4 +78,4 @@ if ( args._.length ) {
 	sourceDir = process.cwd();
 }
 
-fill( sourceDir );
+fill( sourceDir, onCompletion );
